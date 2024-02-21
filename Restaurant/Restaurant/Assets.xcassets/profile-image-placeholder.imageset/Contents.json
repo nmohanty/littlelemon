@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "gabriel-dizzi-GRJUFy09kKg-unsplash.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "gabriel-dizzi-GRJUFy09kKg-unsplash@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "gabriel-dizzi-GRJUFy09kKg-unsplash@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
