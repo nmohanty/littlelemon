@@ -9,6 +9,7 @@ import SwiftUI
 import CoreData
 
 @main
+
 struct RestaurantApp: App {
     let persistenceController = PersistenceController.shared
     var body: some Scene {
@@ -18,3 +19,4 @@ struct RestaurantApp: App {
         }
     }
 }
+
