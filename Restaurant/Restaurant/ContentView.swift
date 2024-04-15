@@ -10,7 +10,7 @@ import CoreData
 
 struct ContentView: View {
     @Environment(\.managedObjectContext) private var viewContext
-    /*@ObservedObject var dish:Dish
+        /*@ObservedObject var dish:Dish
     init(_ dish: Dish) {
         self.dish = dish
     }*/
